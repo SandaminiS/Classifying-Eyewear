@@ -17,5 +17,5 @@ The dataset is sourced from a Kaggle competition related to the T81-855: Applica
 - **Convolutional Neural Networks (CNNs)**: The backbone of the classification model, employing convolutional, pooling, and fully connected layers to identify and classify images based on visual features.
 - **Latent Vector Integration**: Incorporating latent vectors to enhance model performance through additional input layers or feature fusion techniques.
 
-## Conclusion
+
 This project explores the intersection of GAN-generated synthetic data and CNNs, aiming to improve image classification accuracy in real-world applications. 
